@@ -1,0 +1,18 @@
+-d
+"D:\\Code source recode\\BTOOP\\build\\classes"
+-classpath
+"D:\\Code source recode\\BTOOP\\build\\classes"
+-sourcepath
+"D:\\Code source recode\\BTOOP\\src"
+-target
+15
+-encoding
+UTF-8
+-g
+-processorpath
+"D:\\Code source recode\\BTOOP\\build\\empty"
+-s
+"D:\\Code source recode\\BTOOP\\build\\generated-sources\\ap-source-output"
+-source
+15
+"D:\\Code source recode\\BTOOP\\src\\QLSV\\maiin.java"
